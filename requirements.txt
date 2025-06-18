@@ -1,0 +1,10 @@
+### 📦 `requirements.txt`
+
+streamlit
+speechrecognition
+langchain
+langchain-groq
+langchain-core
+python-dotenv
+pyaudio
+pywin32; sys_platform == 'win32'
