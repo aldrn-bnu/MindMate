@@ -1,2 +1,3 @@
 # MindMate
-ai voice activated chatbot showing detected emotion and suggested relaxation
+ai voice activated chatbot showing detected emotion and suggested relaxation exercises
+
